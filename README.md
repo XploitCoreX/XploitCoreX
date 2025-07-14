@@ -20,7 +20,7 @@
 - ⚔️ Custom XSS Payload List
 - 🕵️‍♂️ OSINT Toolkit (under dev)
 
-📫 **Reach Me**: `xploitcore.dev@gmail.com`
+📫 **Reach Me**: `xploitcore7@gmail.com`
 
 > “I don't just find bugs... I weaponize them.”## Hi there 👋
 
